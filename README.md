@@ -146,24 +146,38 @@ Running the application will:
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
+```bash
 git clone https://github.com/devp2611/smart-food-delivery-management-system.git
+cd smart-food-delivery-management-system
+```
 
 ### 2. Install Requirements
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Setup Database
-Run:
-sql/schema_and_seed.sql
+Run the SQL script in MySQL Workbench or terminal:
 
-### 4. Configure DB
+```bash
+mysql -u root -p < sql/schema_and_seed.sql
+```
+
+### 4. Configure Database
 Open:
+```bash
 app/db_config.py
+```
 
 Update:
+```python
 password="your_password_here"
+```
 
-### 5. Run Project
+### 5. Run Application
+```bash
 python app/app.py
+```
 
 ---
 
