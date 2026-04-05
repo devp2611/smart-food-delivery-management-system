@@ -122,7 +122,7 @@ smart-food-delivery-management-system/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/smart-food-delivery-management-system.git
+git clone https://github.com/devp2611/smart-food-delivery-management-system.git
 
 ### 2. Install Requirements
 pip install -r requirements.txt
