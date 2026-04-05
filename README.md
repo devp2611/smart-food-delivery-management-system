@@ -62,23 +62,36 @@ Advantages:
 
 ## 📊 Analytics & Visualizations
 
+
 ### Orders per Restaurant
 ![Orders](charts/01_orders_per_restaurant.png)
+
+**Insight:** This chart compares total order volume across restaurants and helps identify high-demand partners.
 
 ### Top Selling Items
 ![Items](charts/02_top_selling_items.png)
 
+**Insight:** This chart highlights the most frequently ordered menu items, which can support menu optimization and inventory planning.
+
 ### Revenue Distribution
 ![Revenue](charts/03_revenue_distribution.png)
+
+**Insight:** This visualization shows how revenue is distributed across restaurants and helps identify the strongest revenue contributors.
 
 ### Daily Orders Trend
 ![Trend](charts/04_daily_orders_trend.png)
 
+**Insight:** This chart tracks daily order activity and helps detect demand patterns and peak ordering periods.
+
 ### Payment Methods
 ![Payments](charts/05_payment_methods_pastel.png)
 
+**Insight:** This chart shows customer payment preferences and can support checkout strategy and digital payment promotion.
+
 ### Ratings vs Orders
 ![Ratings](charts/06_ratings_scatter.png)
+
+**Insight:** This visualization compares restaurant ratings and helps evaluate service quality across partners.
 
 ---
 
