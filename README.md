@@ -116,6 +116,7 @@ Advantages:
 
 ## 📂 Project Structure
 
+
 ```text
 smart-food-delivery-management-system/
 │
@@ -129,7 +130,6 @@ smart-food-delivery-management-system/
 ├── requirements.txt
 └── README.md
 ```
-
 ---
 
 ## ▶️ How It Works
