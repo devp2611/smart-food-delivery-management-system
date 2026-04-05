@@ -111,6 +111,7 @@ smart-food-delivery-management-system/
 ├── diagrams/
 ├── charts/
 ├── docs/
+│
 ├── requirements.txt
 └── README.md
 
