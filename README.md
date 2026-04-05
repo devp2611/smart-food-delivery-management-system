@@ -143,7 +143,7 @@ python app/app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Web dashboard (Flask/Streamlit)
 - Real-time tracking
 - API integration
@@ -151,9 +151,5 @@ python app/app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 Dev Patel
-
----
-
-## ⭐ Star this repo if you like it!# smart-food-delivery-management-system
