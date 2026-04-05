@@ -119,6 +119,17 @@ smart-food-delivery-management-system/
 
 ---
 
+## ▶️ How It Works
+
+Running the application will:
+
+- connect to the MySQL database
+- execute analytical SQL queries
+- generate visualization charts
+- save all output charts in the `charts/` folder
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
