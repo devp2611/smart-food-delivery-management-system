@@ -15,7 +15,10 @@ The system integrates:
 - NoSQL Database (MongoDB)
 - Python-based analytics for insights and visualization
 
+This project demonstrates an end-to-end data pipeline from database design to analytics and visualization.
+
 ---
+
 
 ## 🚀 Key Highlights
 - Designed an end-to-end database system for food delivery operations
